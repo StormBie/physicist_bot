@@ -35,7 +35,6 @@
    cd telegram-bot
    
 2.Добавьте ваш Telegram Bot API токен:
-   ```bash
    TOKEN=your_telegram_bot_api_token
 
 
